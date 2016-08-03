@@ -6,3 +6,5 @@
 
 ### cool
 ![screenshot](https://raw.githubusercontent.com/sukhchander/nuxeo-wants-no-frontend-excuses/master/result.png)
+
+@nuxeo @ebarroca @efge @tiry how effective is this recruiting / interviewing strategy?
