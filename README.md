@@ -5,4 +5,4 @@
 ## Make tests pass
 
 ### cool
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/sukhchander/nuxeo-wants-no-frontend-excuses/master/result.png)
